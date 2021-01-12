@@ -5,7 +5,7 @@ I’m a Chicago-based front-end developer currently working as an Engineering Ma
 I’m interested in networking with developers who
 
 * 📉 Care about web performance and its business impact
-* 📱 Love to make the web accessible for everyone regardless of device, bandwith, or ability
+* 📱 Love to make the web accessible for everyone regardless of device, bandwidth, or ability
 * 💼 Want to talk about making tech a more inclusive industry regardless of demographic or experience
 
 You can find me at [@conwaydev](https://twitter.com/conwaydev) or [my portfolio](https://conwaydev.com).
