@@ -1,6 +1,6 @@
 # 👋 Howdy! 
 
-I’m a Chicago-based front-end developer currently working as Director, Web Engineering and Design at Sprout Social and I’m passionate about the web and pork. My pronouns are he/him/his. 
+I’m a Chicago-based front-end developer currently working as Director, Web Design and Engineering at Sprout Social and I’m passionate about the web and pork. My pronouns are he/him/his. 
 
 I’m interested in networking with folks who
 * 📉 Care about web performance and its business impact
